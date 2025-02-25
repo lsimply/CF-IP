@@ -1,4 +1,6 @@
-time.cloudflare.com
+cf.090227.xyz#三网自适应分流官方优选
+ct.090227.xyz#电信官方优选
+cmcc.090227.xyz#移动官方优选time.cloudflare.com
 shopify.com
 time.is
 icook.hk
@@ -9,7 +11,6 @@ malaysia.com
 russia.com
 singapore.com
 skk.moe
-www.visa.com
 www.visa.com.sg
 www.visa.com.hk
 www.visa.com.tw
@@ -18,34 +19,20 @@ www.visakorea.com
 www.gco.gov.qa
 www.gov.se
 www.gov.ua
-www.digitalocean.com
-www.csgo.com
-www.shopify.com
-www.whoer.net
-www.whatismyip.com
-www.ipget.net
-www.hugedomains.com
-www.udacity.com
-www.4chan.org
-www.okcupid.com
-www.glassdoor.com
-www.udemy.com
-www.baipiao.eu.org
-cdn.anycast.eu.org
-cdn-all.xn--b6gac.eu.org
-cdn-b100.xn--b6gac.eu.org
+cfip.xxxxxxxx.tk#OTC提供维护官方优选
+bestcf.onecf.eu.org#Mingyu提供维护官方优选
+cf.zhetengsha.eu.org#小一提供维护官方优选
+acjp2.cloudflarest.link#KJKKK维护官方优选
+achk.cloudflarest.link#KJKKK维护官方优选
 xn--b6gac.eu.org
-edgetunnel.anycast.eu.org
-alejandracaiccedo.com
-nc.gocada.co
-log.bpminecraft.com
-www.boba88slot.com
-gur.gov.ua
-www.zsu.gov.ua
-www.iakeys.com
-edtunnel-dgp.pages.dev
-www.d-555.com
-fbi.gov
+yx.887141.xyz
+8.889288.xyz
+cfip.1323123.xyz
+cf.515188.xyz
+cf-st.annoy.eu.org
+cf.0sm.com
+cf.877771.xyz
+cf.345673.xyz
 154.218.15.71#North AmericaLos Angeles
 154.218.15.138#North AmericaLos Angeles
 154.211.8.169#North AmericaLos Angeles

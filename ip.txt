@@ -1,8 +1,6 @@
-
 cf.090227.xyz#三网自适应分流官方优选
 ct.090227.xyz#电信官方优选
 cmcc.090227.xyz#移动官方优选time.cloudflare.com
-shopify.com
 time.is
 icook.hk
 icook.tw
@@ -11,16 +9,11 @@ japan.com
 malaysia.com
 russia.com
 singapore.com
-skk.moe
 www.visa.com.sg
-www.visa.com.hk
-www.visa.com.tw
 www.visa.co.jp
-www.visakorea.com
 www.gco.gov.qa
 www.gov.se
 www.gov.ua
-xn--b6gac.eu.org
 yx.887141.xyz
 cfip.1323123.xyz
 cf.0sm.com

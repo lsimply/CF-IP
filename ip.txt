@@ -1,6 +1,4 @@
-cf.090227.xyz#三网自适应分流官方优选
-ct.090227.xyz#电信官方优选
-cmcc.090227.xyz#移动官方优选time.cloudflare.com
+csgo.com
 time.is
 icook.hk
 icook.tw
@@ -17,20 +15,4 @@ www.gov.ua
 yx.887141.xyz
 cfip.1323123.xyz
 cf.0sm.com
-154.218.15.71#North AmericaLos Angeles
-154.218.15.138#North AmericaLos Angeles
-154.211.8.169#North AmericaLos Angeles
-103.160.204.6#North AmericaLos Angeles
-103.184.45.237#EuropeLondon
-154.218.15.102#North AmericaLos Angeles
-154.194.0.147#EuropeLondon
-154.194.0.213#EuropeLondon
-154.194.0.88#EuropeLondon
-27.50.49.5#North AmericaLos Angeles
-154.211.8.250#North AmericaLos Angeles
-154.211.8.4#North AmericaLos Angeles
-154.218.15.136#North AmericaLos Angeles
-154.194.0.211#EuropeLondon
-27.50.49.113#North AmericaLos Angeles
-154.194.0.208#EuropeLondon
-103.184.45.216#EuropeLondon
+

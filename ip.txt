@@ -1,6 +1,3 @@
 time.is
-cdns.doon.eu.org
-ip.sb
-malaysia.com
 cdn.2020111.xyz
 
